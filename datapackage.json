@@ -16,13 +16,13 @@
   ], 
   "id": "6a364a3c-0c83-4198-b9e7-8a5b149932f3", 
   "metadata_created": "2020-07-26T08:58:43.258538", 
-  "metadata_modified": "2020-07-26T08:59:24.411982", 
+  "metadata_modified": "2020-07-26T09:45:18.259725", 
   "version": "", 
   "type": "dataset", 
   "resources": [
     {
       "hash": "", 
-      "description": "Cool data ", 
+      "description": "Cool data with better description", 
       "mediatype": "text/csv", 
       "tracking_summary": {
         "total": 0, 
@@ -36,7 +36,7 @@
       "format": "CSV", 
       "bytes": 1579, 
       "last_modified": "2020-07-26T08:59:18.351323", 
-      "revision_id": "985e794f-2111-4315-b9e9-1de400f9bcab"
+      "revision_id": "6ecf9d57-0f69-4b2d-bdec-e87725ad700a"
     }
   ], 
   "num_resources": 1, 
