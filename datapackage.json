@@ -1,28 +1,69 @@
 {
   "owner_org": "fc9d6311-442f-498b-bd33-292536400bcf", 
-  "description": "Some good data here,\r\nlet's use it!", 
   "contributors": [], 
-  "tag_string": "qwe", 
+  "relationships_as_object": [], 
   "private": true, 
+  "num_tags": 1, 
   "licenses": [
     {
-      "name": "cc-by"
-    }
-  ], 
-  "groups": [
-    {
-      "id": "fc9d6311-442f-498b-bd33-292536400bcf"
+      "path": "http://www.opendefinition.org/licenses/cc-by", 
+      "name": "cc-by", 
+      "title": "Creative Commons Attribution"
     }
   ], 
   "keywords": [
-    "qwe", 
     "qwe"
   ], 
   "id": "6a364a3c-0c83-4198-b9e7-8a5b149932f3", 
+  "metadata_created": "2020-07-26T08:58:43.258538", 
+  "metadata_modified": "2020-07-26T08:59:18.438730", 
+  "version": "", 
+  "type": "dataset", 
+  "resources": [
+    {
+      "hash": "", 
+      "description": "Cool data ", 
+      "mediatype": "text/csv", 
+      "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+      }, 
+      "url_type": "upload", 
+      "path": "http://localhost:5000/dataset/6a364a3c-0c83-4198-b9e7-8a5b149932f3/resource/e322d352-d18a-4d1c-9ed7-1fe63d447296/download/query_result.csv", 
+      "id": "e322d352-d18a-4d1c-9ed7-1fe63d447296", 
+      "name": "query_result.csv", 
+      "created": "2020-07-26T08:59:18.668645", 
+      "format": "CSV", 
+      "bytes": 1579, 
+      "last_modified": "2020-07-26T08:59:18.351323", 
+      "revision_id": "aa287508-6ee2-48d5-9a36-0fb1e1bee997"
+    }
+  ], 
+  "num_resources": 1, 
+  "description": "Some good data here,\r\nlet's use it!", 
+  "tracking_summary": {
+    "total": 0, 
+    "recent": 0
+  }, 
+  "groups": [], 
+  "creator_user_id": "9f21ba95-0e27-4eac-ac59-19574be4427e", 
+  "relationships_as_subject": [], 
+  "organization": {
+    "description": "Not the People's Front of Judea!", 
+    "title": "Judean People's Front", 
+    "created": "2020-07-14T15:09:36.970290", 
+    "approval_status": "approved", 
+    "is_organization": true, 
+    "state": "active", 
+    "image_url": "2020-07-14-120936.809907Screen-Shot-2020-07-14-at-15.05.40.png", 
+    "revision_id": "38f26e0f-4ab9-4446-b2fb-1c87f94af615", 
+    "type": "organization", 
+    "id": "fc9d6311-442f-498b-bd33-292536400bcf", 
+    "name": "judean-people-s-front"
+  }, 
   "name": "a-new-hope", 
+  "isopen": true, 
   "homepage": "", 
   "title": "A New Hope", 
-  "version": "", 
-  "creator_user_id": "9f21ba95-0e27-4eac-ac59-19574be4427e", 
-  "type": "dataset"
+  "revision_id": "2cdb4d2e-da97-43f7-a50a-9cf49281ddc1"
 }
