@@ -1,0 +1,28 @@
+{
+  "owner_org": "fc9d6311-442f-498b-bd33-292536400bcf", 
+  "description": "Some good data here,\r\nlet's use it!", 
+  "contributors": [], 
+  "tag_string": "qwe", 
+  "private": true, 
+  "licenses": [
+    {
+      "name": "cc-by"
+    }
+  ], 
+  "groups": [
+    {
+      "id": "fc9d6311-442f-498b-bd33-292536400bcf"
+    }
+  ], 
+  "keywords": [
+    "qwe", 
+    "qwe"
+  ], 
+  "id": "6a364a3c-0c83-4198-b9e7-8a5b149932f3", 
+  "name": "a-new-hope", 
+  "homepage": "", 
+  "title": "A New Hope", 
+  "version": "", 
+  "creator_user_id": "9f21ba95-0e27-4eac-ac59-19574be4427e", 
+  "type": "dataset"
+}
